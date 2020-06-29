@@ -1,0 +1,13 @@
+[
+    { "name": "Asus E210",       "uid": 1,  "price": 250000    },
+    { "name": "HP T530",         "uid": 2,  "price": 600000    },
+    { "name": "Acer Veriton",    "uid": 3,  "price": 1500000   },
+    { "name": "Dell Vostro",     "uid": 4,  "price": 5500000   },
+    { "name": "Lenovo iDea",     "uid": 5,  "price": 12000000  },
+    { "name": "MSI Pro 20ET",    "uid": 6,  "price": 15000000  },
+    { "name": "HP Pavilion 570", "uid": 7,  "price": 20000000  },
+    { "name": "MacBook Air",     "uid": 8,  "price": 35000000  },
+    { "name": "iMac",            "uid": 9,  "price": 55000000  },
+    { "name": "Mac Pro",         "uid": 10, "price": 100000000 },
+    { "name": "Asus ROG GR8",    "uid": 11, "price": 135000000 }
+]

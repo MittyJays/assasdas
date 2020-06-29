@@ -1,0 +1,13 @@
+[
+    { "name": "Nokia 3310",          "uid": 1,  "price": 5000    },
+    { "name": "Samsung S2",          "uid": 2,  "price": 15000   },
+    { "name": "iPhone 4",            "uid": 3,  "price": 15000   },
+    { "name": "iPhone 5s",           "uid": 4,  "price": 45000   },
+    { "name": "iPhone 8",            "uid": 5,  "price": 92000   },
+    { "name": "Samsung S9",          "uid": 6,  "price": 150000  },
+    { "name": "Meizu M5",            "uid": 7,  "price": 200000  },
+    { "name": "Xiaomi Redmi 4A",     "uid": 8,  "price": 350000  },
+    { "name": "Microsot Lumia 6830", "uid": 9,  "price": 550000  },
+    { "name": "iPhone XS",           "uid": 10, "price": 1000000 },
+    { "name": "Xiaomi Redmi 6A",     "uid": 11, "price": 1350000 }
+]

@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1,
+		"name": "Lada 2010",
+		"cost": 50000,
+		"minspeed": 40,
+		"speed": 120,
+		"att": "photo-160021944_456240473"
+	},
+	{
+		"id": 2,
+		"name": "Hyundai Solaris",
+		"cost": 250000,
+		"minspeed": 60,
+		"speed": 230,
+		"att": "photo-160021944_456240472"
+	},
+	{
+		"id": 3,
+		"name": "Toyota Camry",
+		"cost": 1000000,
+		"minspeed": 80,
+		"speed": 250,
+		"att": "photo-160021944_456240477"
+	},
+	{
+		"id": 4,
+		"name": "BMW 5",
+		"cost": 10000000,
+		"minspeed": 100,
+		"speed": 320,
+		"att": "photo-160021944_456240471"
+	},
+	{
+		"id": 5,
+		"name": "Mercedes - Benz",
+		"cost": 150000000,
+		"minspeed": 140,
+		"speed": 380,
+		"att": "photo-160021944_456240475"
+	},
+	{
+		"id": 6,
+		"name": "Lamborghini Huracan",
+		"cost": 500000000,
+		"minspeed": 240,
+		"speed": 450,
+		"att": "photo-160021944_456240474"
+	},
+	{
+		"id": 7,
+		"name": "Rolls Roys Wrath",
+		"cost": 1000000000,
+		"minspeed": 300,
+		"speed": 500,
+		"att": "photo-160021944_456240476"
+	}
+]
